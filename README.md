@@ -12,6 +12,7 @@ Struktur kelas dalam program ini dimulai dengan kelas Product sebagai kelas dasa
 Selain itu, ada juga kelas Tampilan yang bertugas untuk menampilkan informasi produk. Ini mencakup detail seperti nama produk, harga, ukuran, dan lainnya. Kelas Tampilan ini memastikan bahwa informasi produk disajikan dengan cara yang konsisten dan rapi kepada pengguna.
 
 ## Desain Program
+
 https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/42c715cb-fb28-4d92-a265-5d1c34c66cc2
 
 ## Penjelasan Desain Program 
@@ -34,4 +35,5 @@ Cpp, java dan Python
 https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/7d7a0954-cb3a-4425-b741-7036831a4d0d
 
 php
+
 https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/9e3a051d-8c32-4cad-8988-31f10bdc5c1e
