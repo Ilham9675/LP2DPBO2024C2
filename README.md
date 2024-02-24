@@ -13,7 +13,7 @@ Selain itu, ada juga kelas Tampilan yang bertugas untuk menampilkan informasi pr
 
 ## Desain Program
 
-https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/42c715cb-fb28-4d92-a265-5d1c34c66cc2
+![Screenshot 2024-02-24 225019](https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/3778fe0f-100c-4467-8d06-c30de21c7f89)
 
 ## Penjelasan Desain Program 
 
@@ -32,7 +32,7 @@ Fitur utama yang disediakan oleh program ini adalah kemampuan untuk menambahkan 
 ## Dokumentasi Program
 Cpp, java dan Python
 
-https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/7d7a0954-cb3a-4425-b741-7036831a4d0d
+![Screenshot (579)](https://github.com/Ilham9675/LP2DPBO2024C2/assets/117561201/ffdda0a3-0016-4a6b-8ad3-a682884e852a)
 
 php
 
